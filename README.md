@@ -21,28 +21,6 @@ If you have come across this page via github please visit the main [Solarized ho
 [Solarized homepage]:   http://ethanschoonover.com/solarized
 [Solarized repository]: https://github.com/altercation/solarized
 
-Contribute
----------
-
-The goal is to get as-close-as-possible to the rendering of the same file in Vim. If you would like to help, here's how to get involved.
-
-
-1. Fork this repo and checkout your own copy.
-2. Download the [sample documents](https://github.com/altercation/solarized/tree/master/utils/tests). 
-3. Checkout this guide to [TextMate theme development](http://manual.macromates.com/en/themes).
-4. Check the [issues](https://github.com/deplorableword/textmate-solarized/issues) to see what needs working on.
-
-Contributors
----------
-* [deplorableword](https://github.com/deplorableword)
-* [fentie](https://github.com/fentie)
-* [bmthykm](https://github.com/bmthykm)
-* [Zegnat](https://github.com/zegnat) 
-* [markstory](https://github.com/markstory)
-* [rays](https://github.com/rays)
-* [joshcarr](https://github.com/joshcarr)
-* [bueltge](https://github.com/bueltge/Aptana-Solarized)
-
 License
 -------
 
