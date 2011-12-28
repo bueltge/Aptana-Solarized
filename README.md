@@ -8,8 +8,8 @@ other applications.
 Use in Apatan
 ---------
 
-	* Download theme files
-	* Import in Aptana: Window --> Preferences -> Aptana Studio -> Themes > Import> Apply
+* Download theme files
+* Import in Aptana: Window --> Preferences -> Aptana Studio -> Themes > Import> Apply
 
 
 Downloads
