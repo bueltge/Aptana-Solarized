@@ -5,11 +5,12 @@ See the [Solarized homepage](http://ethanschoonover.com/solarized) for screensho
 details and colorscheme versions for Vim, Mutt, popular terminal emulators and 
 other applications.
 
-Use in Apatan
+Use in Aptana
 ---------
 
 * Download theme files
 * Import in Aptana: Window --> Preferences -> Aptana Studio -> Themes > Import> Apply
+* About [Aptana](http://aptana.com/)
 
 
 Downloads
@@ -40,6 +41,7 @@ Contributors
 * [markstory](https://github.com/markstory)
 * [rays](https://github.com/rays)
 * [joshcarr](https://github.com/joshcarr)
+* [bueltge](https://github.com/bueltge/Aptana-Solarized)
 
 License
 -------
