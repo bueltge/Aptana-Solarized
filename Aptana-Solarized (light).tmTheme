@@ -689,7 +689,7 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>HTML: <tag></string>
+      <string>HTML: &lt;tag&gt;</string>
       <key>scope</key>
       <string>entity.name.tag.block.any.html</string>
       <key>settings</key>
@@ -715,7 +715,7 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>HTML: <style></string>
+      <string>HTML: &lt;style&gt;</string>
       <key>scope</key>
       <string>entity.name.tag.style.html</string>
       <key>settings</key>
@@ -1192,7 +1192,7 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>C: include <something.c></string>
+      <string>C: include &lt;something.c&gt;</string>
       <key>scope</key>
       <string>meta.preprocessor.c.include string.quoted.other.lt-gt.include.c, meta.preprocessor.c.include punctuation.definition.string.begin.c, meta.preprocessor.c.include punctuation.definition.string.end.c</string>
       <key>settings</key>
