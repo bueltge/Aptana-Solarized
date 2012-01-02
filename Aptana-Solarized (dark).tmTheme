@@ -20,7 +20,7 @@
         <key>lineHighlight</key>
         <string>#0a2933ff</string>
         <key>selection</key>
-        <string>#0a2933ff</string>
+        <string>#303030ff</string>
         <key>invisibles</key>
         <string>#404040</string>
       </dict>
@@ -687,7 +687,7 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>HTML: &lt;tag&gt;</string>
+      <string>HTML: <tag></string>
       <key>scope</key>
       <string>entity.name.tag.block.any.html</string>
       <key>settings</key>
@@ -713,7 +713,7 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>HTML: &lt;style&gt;</string>
+      <string>HTML: <style></string>
       <key>scope</key>
       <string>entity.name.tag.style.html</string>
       <key>settings</key>
@@ -1212,7 +1212,7 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>C: include &lt;something.c&gt;</string>
+      <string>C: include <something.c></string>
       <key>scope</key>
       <string>meta.preprocessor.c.include string.quoted.other.lt-gt.include.c, meta.preprocessor.c.include punctuation.definition.string.begin.c, meta.preprocessor.c.include punctuation.definition.string.end.c</string>
       <key>settings</key>
