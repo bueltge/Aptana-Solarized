@@ -14,7 +14,7 @@
         <key>foreground</key>
         <string>#839496</string>
         <key>background</key>
-        <string>#061820</string>
+        <string>#042029</string>
         <key>caret</key>
         <string>#819090</string>
         <key>lineHighlight</key>
@@ -687,7 +687,7 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>HTML: <tag></string>
+      <string>HTML: &lt;tag&gt;</string>
       <key>scope</key>
       <string>entity.name.tag.block.any.html</string>
       <key>settings</key>
@@ -713,7 +713,7 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>HTML: <style></string>
+      <string>HTML: &lt;style&gt;</string>
       <key>scope</key>
       <string>entity.name.tag.style.html</string>
       <key>settings</key>
@@ -1212,7 +1212,7 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>C: include <something.c></string>
+      <string>C: include &lt;something.c&gt;</string>
       <key>scope</key>
       <string>meta.preprocessor.c.include string.quoted.other.lt-gt.include.c, meta.preprocessor.c.include punctuation.definition.string.begin.c, meta.preprocessor.c.include punctuation.definition.string.end.c</string>
       <key>settings</key>
@@ -1884,42 +1884,6 @@
       <string>Annotation Override - searchResultIndication</string>
       <key>scope</key>
       <string>override.searchResultIndication</string>
-      <key>settings</key>
-      <dict>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>Annotation Override - xmlTagPairOccurrenceIndication</string>
-      <key>scope</key>
-      <string>override.xmlTagPairOccurrenceIndication</string>
-      <key>settings</key>
-      <dict>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>Annotation Override - htmlTagPairOccurrenceIndication</string>
-      <key>scope</key>
-      <string>override.htmlTagPairOccurrenceIndication</string>
-      <key>settings</key>
-      <dict>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>Annotation Override - rubyBlockPairOccurrenceIndication</string>
-      <key>scope</key>
-      <string>override.rubyBlockPairOccurrenceIndication</string>
-      <key>settings</key>
-      <dict>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>Annotation Override - pydevOccurrenceIndication</string>
-      <key>scope</key>
-      <string>override.pydevOccurrenceIndication</string>
       <key>settings</key>
       <dict>
       </dict>
