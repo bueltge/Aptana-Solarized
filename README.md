@@ -8,6 +8,8 @@ other applications.
 
 ![Solarized Light Example in Aptana IDE][light]
 
+More screenshots you can find inside the folder [screenshot](https://github.com/bueltge/Aptana-Solarized/tree/master/screenshots).
+
 [dark]: https://raw.github.com/bueltge/Aptana-Solarized/master/screenshots/Aptana-Solarized-Dark_001.png
 [light]: https://raw.github.com/bueltge/Aptana-Solarized/master/screenshots/Aptana-Solarized-Light_001.png "Solarized Light Example in Aptana IDE"
 
