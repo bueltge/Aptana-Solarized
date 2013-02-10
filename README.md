@@ -1,7 +1,7 @@
 # Solarized Colorscheme for Aptana
-See the [Solarized homepage](http://ethanschoonover.com/solarized) for screenshots, 
-details and colorscheme versions for Vim, Mutt, popular terminal emulators and 
-other applications.
+Solarized Colorscheme is precision colors for machines and people.
+
+See more about the colorschemes on the [Solarized homepage](http://ethanschoonover.com/solarized).
 
 #### Screenshots
 ![Solarized Dark Example in Aptana IDE][dark]
@@ -20,7 +20,7 @@ More screenshots you can find inside the folder [screenshot](https://github.com/
  * About [Aptana](http://aptana.com/)
 
 ## Downloads
-Use the [download link](https://github.com/bueltge/Aptana-Solarized/archive/master.zip) on this github repository and you search for other editors please visit the main [Solarized homepage](http://ethanschoonover.com/solarized)
+Use the [download link](https://github.com/bueltge/Aptana-Solarized/archive/master.zip) for the Aptana or Eclipse version on this github repository. If you search for other editors please visit the main [Solarized homepage](http://ethanschoonover.com/solarized)
 
 [Solarized homepage]:   http://ethanschoonover.com/solarized
 [Solarized repository]: https://github.com/altercation/solarized
