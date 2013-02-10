@@ -1,14 +1,15 @@
 # Solarized Colorscheme for Aptana
 Solarized Colorscheme is precision colors for machines and people.
 
-See more about the colorschemes on the [Solarized homepage](http://ethanschoonover.com/solarized).
+Solarized was created by [Ethan Schoonover][ES] and you can find out more
+about the design work that went into it on his [project page][Solarized homepage].
 
 #### Screenshots
 ![Solarized Dark Example in Aptana IDE][dark]
 
 ![Solarized Light Example in Aptana IDE][light]
 
-More screenshots you can find inside the folder [screenshot](https://github.com/bueltge/Aptana-Solarized/tree/master/screenshots).
+More screenshots you can find inside the folder [screenshot](scrshots).
 
 [dark]: https://raw.github.com/bueltge/Aptana-Solarized/master/screenshots/Aptana-Solarized-Dark_001.png
 [light]: https://raw.github.com/bueltge/Aptana-Solarized/master/screenshots/Aptana-Solarized-Light_001.png "Solarized Light Example in Aptana IDE"
@@ -17,13 +18,10 @@ More screenshots you can find inside the folder [screenshot](https://github.com/
 
  * Download theme files
  * Import in Aptana: Window --> Preferences -> Aptana Studio -> Themes -> Import -> Apply
- * About [Aptana](http://aptana.com/)
+ * About [Aptana](Aptana)
 
 ## Downloads
-Use the [download link](https://github.com/bueltge/Aptana-Solarized/archive/master.zip) for the Aptana or Eclipse version on this github repository. If you search for other editors please visit the main [Solarized homepage](http://ethanschoonover.com/solarized)
-
-[Solarized homepage]:   http://ethanschoonover.com/solarized
-[Solarized repository]: https://github.com/altercation/solarized
+Use the [download link](DL) for the Aptana or Eclipse version on this github repository. If you search for other editors please visit the main [Solarized homepage](Solarized homepage)
 
 ## License
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -43,3 +41,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+[ES]: http://ethanschoonover.com
+[Solarized homepage]: http://ethanschoonover.com/solarized
+[Solarized repository]: https://github.com/altercation/solarized
+[DL]: https://github.com/bueltge/Aptana-Solarized/archive/master.zip
+[Aptana]: http://aptana.com/
+[scrshots]: https://github.com/bueltge/Aptana-Solarized/tree/master/screenshots
