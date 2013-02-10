@@ -1,29 +1,29 @@
-Solarized Colorscheme for Aptana
-=============================
-
+# Solarized Colorscheme for Aptana
 See the [Solarized homepage](http://ethanschoonover.com/solarized) for screenshots, 
 details and colorscheme versions for Vim, Mutt, popular terminal emulators and 
 other applications.
 
-Use in Aptana
----------
+#### Screenshots
+![Solarized Dark Example in Aptana IDE][dark]
 
-* Download theme files
-* Import in Aptana: Window --> Preferences -> Aptana Studio -> Themes > Import> Apply
-* About [Aptana](http://aptana.com/)
+![Solarized Light Example in Aptana IDE][light]
 
+[dark]: https://raw.github.com/bueltge/Aptana-Solarized/master/screenshots/Aptana-Solarized-Dark_001.png
+[light]: https://raw.github.com/bueltge/Aptana-Solarized/master/screenshots/Aptana-Solarized-Light_001.png "Solarized Light Example in Aptana IDE"
 
-Downloads
----------
+## Use in Aptana
 
-If you have come across this page via github please visit the main [Solarized homepage](http://ethanschoonover.com/solarized)
+ * Download theme files
+ * Import in Aptana: Window --> Preferences -> Aptana Studio -> Themes -> Import -> Apply
+ * About [Aptana](http://aptana.com/)
+
+## Downloads
+Use the [download link](https://github.com/bueltge/Aptana-Solarized/archive/master.zip) on this github repository and you search for other editors please visit the main [Solarized homepage](http://ethanschoonover.com/solarized)
 
 [Solarized homepage]:   http://ethanschoonover.com/solarized
 [Solarized repository]: https://github.com/altercation/solarized
 
-License
--------
-
+## License
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
